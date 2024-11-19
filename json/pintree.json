@@ -6,8 +6,99 @@
     "children": [
       {
         "type": "folder",
+        "addDate": 1732038364968,
+        "title": "tools",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1732038372427,
+            "title": "TinyPNG – Compress WebP, PNG and JPEG images intelligently",
+            "icon": "https://logo.clearbit.com/tinypng.com",
+            "url": "https://tinypng.com/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1732038224100,
+        "title": "blog",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1732038276544,
+            "title": "(55 封私信 / 80 条消息) 首页 - 知乎",
+            "icon": "https://logo.clearbit.com/www.zhihu.com",
+            "url": "https://www.zhihu.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732038231520,
+            "title": "小红书 - 你的生活指南",
+            "icon": "https://logo.clearbit.com/www.xiaohongshu.com",
+            "url": "https://www.xiaohongshu.com/explore"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1732038135180,
+        "title": "resource",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1732038143878,
+            "title": "zlibrary-east.se",
+            "icon": "https://logo.clearbit.com/zh.zlibrary-east.se",
+            "url": "https://zh.zlibrary-east.se/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1731988959346,
+        "title": "video",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1732038083174,
+            "title": "AGE动漫 - 在线动漫观看",
+            "icon": "https://logo.clearbit.com/www.agedm.org",
+            "url": "https://www.agedm.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732038058607,
+            "title": "抖音-记录美好生活",
+            "icon": "https://logo.clearbit.com/www.douyin.com",
+            "url": "https://www.douyin.com/discover"
+          },
+          {
+            "type": "link",
+            "addDate": 1732037994739,
+            "title": "硬核指南 - 够高清才是真硬核！",
+            "icon": "https://logo.clearbit.com/yinghe.app",
+            "url": "https://yinghe.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732037962973,
+            "title": "YouTube",
+            "icon": "https://logo.clearbit.com/www.youtube.com",
+            "url": "https://www.youtube.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1731988968845,
+            "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+            "icon": "https://logo.clearbit.com/www.bilibili.com",
+            "url": "https://www.bilibili.com/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
         "addDate": 1731987782009,
-        "title": "编程工具",
+        "title": "programing",
         "children": [
           {
             "type": "link",
@@ -42,7 +133,7 @@
       {
         "type": "folder",
         "addDate": 1731987750928,
-        "title": "导航站",
+        "title": "index",
         "children": [
           {
             "type": "link",
@@ -56,7 +147,7 @@
       {
         "type": "folder",
         "addDate": 1731985401702,
-        "title": "ai工具",
+        "title": "ai",
         "children": [
           {
             "type": "link",
