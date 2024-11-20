@@ -6,9 +6,121 @@
     "children": [
       {
         "type": "folder",
+        "addDate": 1732039664156,
+        "title": "trading",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1732039685808,
+            "title": "我的首页 - 雪球",
+            "icon": "https://logo.clearbit.com/xueqiu.com",
+            "url": "https://xueqiu.com/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1732039512679,
+        "title": "tec doc",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1732039528361,
+            "title": "提示工程指南",
+            "icon": "https://logo.clearbit.com/learnprompting.org",
+            "url": "https://learnprompting.org/zh-Hans/docs/introduction"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1732039157349,
+        "title": "knowledge",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1732039178449,
+            "title": "MBA智库百科，全球专业中文经管百科",
+            "icon": "https://logo.clearbit.com/wiki.mbalib.com",
+            "url": "https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1732039046668,
+        "title": "pass",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1732039088555,
+            "title": "主页 | Chenqiwencalvin@gmail.com's Account | Cloudflare",
+            "icon": "https://logo.clearbit.com/dash.cloudflare.com",
+            "url": "https://dash.cloudflare.com/56882d29b0001a960aa49adb207d7a4e"
+          },
+          {
+            "type": "link",
+            "addDate": 1732039052009,
+            "title": "Dashboard | Supabase",
+            "icon": "https://logo.clearbit.com/supabase.com",
+            "url": "https://supabase.com/dashboard/projects"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1732038855831,
+        "title": "design",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1732038996598,
+            "title": "Dribbble - Discover the World’s Top Designers & Creative Professionals",
+            "icon": "https://logo.clearbit.com/dribbble.com",
+            "url": "https://dribbble.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732038862591,
+            "title": "Discover iOS Apps | Mobbin",
+            "icon": "https://logo.clearbit.com/mobbin.com",
+            "url": "https://mobbin.com/browse/ios/apps"
+          }
+        ]
+      },
+      {
+        "type": "folder",
         "addDate": 1732038364968,
         "title": "tools",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1732039442062,
+            "title": "OpenResume - Free Open-source Resume Builder and Parser",
+            "icon": "https://logo.clearbit.com/www.open-resume.com",
+            "url": "https://www.open-resume.com/resume-builder"
+          },
+          {
+            "type": "link",
+            "addDate": 1732039322004,
+            "title": "Maven Central",
+            "icon": "https://logo.clearbit.com/central.sonatype.com",
+            "url": "https://central.sonatype.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732039246413,
+            "title": "Revezone - alpha",
+            "icon": "https://logo.clearbit.com/revezone.com",
+            "url": "https://revezone.com/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1732039212493,
+            "title": "Package Search | JetBrains",
+            "icon": "https://logo.clearbit.com/package-search.jetbrains.com",
+            "url": "https://package-search.jetbrains.com/"
+          },
           {
             "type": "link",
             "addDate": 1732038372427,
@@ -44,6 +156,20 @@
         "addDate": 1732038135180,
         "title": "resource",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1732039365447,
+            "title": "free-programming-books | Freely available programming books",
+            "icon": "https://logo.clearbit.com/ebookfoundation.github.io",
+            "url": "https://ebookfoundation.github.io/free-programming-books-search/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732039340848,
+            "title": "Dev Fonts",
+            "icon": "https://logo.clearbit.com/devfonts.gafi.dev",
+            "url": "https://devfonts.gafi.dev/"
+          },
           {
             "type": "link",
             "addDate": 1732038143878,
@@ -102,6 +228,13 @@
         "children": [
           {
             "type": "link",
+            "addDate": 1732039418041,
+            "title": "TypeScript: 演练场 - 一个用于 TypeScript 和 JavaScript 的在线编辑器",
+            "icon": "https://logo.clearbit.com/www.typescriptlang.org",
+            "url": "https://www.typescriptlang.org/zh/play/?#code/PTAEHUFMBsGMHsC2lQBd5oBYoCoE8AHSAZVgCcBLA1UABWgEM8BzM+AVwDsATAGiwoBnUENANQAd0gAjQRVSQAUCEmYKsTKGYUAbpGF4OY0BoadYKdJMoL+gzAzIoz3UNEiPOofEVKVqAHSKymAAmkYI7NCuqGqcANag8ABmIjQUXrFOKBJMggBcISGgoAC0oACCbvCwDKgU8JkY7p7ehCTkVDQS2E6gnPCxGcwmZqDSTgzxxWWVoASMFmgYkAAeRJTInN3ymj4d-jSCeNsMq-wuoPaOltigAKoASgAywhK7SbGQZIIz5VWCFzSeCrZagNYbChbHaxUDcCjJZLfSDbExIAgUdxkUBIursJzCFJtXydajBBCcQQ0MwAUVWDEQC0gADVHBQGNJ3KAALygABEAAkYNAMOB4GRonzFBTBPB3AERcwABS0+mM9ysygc9wASmCKhwzQ8ZC8iHFzmB7BoXzcZmY7AYzEg-Fg0HUiQ58D0Ii8fLpDKZgj5SWxfPADlQAHJhAA5SASPlBFQAeS+ZHegmdWkgR1QjgUrmkeFATjNOmGWH0KAQiGhwkuNok4uiIgMHGxCyYrA4PCCJSAA"
+          },
+          {
+            "type": "link",
             "addDate": 1731987859850,
             "title": "Project IDX",
             "icon": "https://logo.clearbit.com/idx.google.com",
@@ -150,6 +283,90 @@
         "title": "ai",
         "children": [
           {
+            "type": "folder",
+            "addDate": 1732039563688,
+            "title": "work flow",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1731987412896,
+                "title": "工作室 - Dify",
+                "icon": "https://logo.clearbit.com/cloud.dify.ai",
+                "url": "https://cloud.dify.ai/apps"
+              },
+              {
+                "type": "link",
+                "addDate": 1731986789784,
+                "title": "扣子",
+                "icon": "https://logo.clearbit.com/www.coze.cn",
+                "url": "https://www.coze.cn/space/7417819919506767912/develop"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1732039548827,
+            "title": "chats",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1731987251125,
+                "title": "通义tongyi.ai_你的全能AI助手-通义千问",
+                "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+                "url": "https://tongyi.aliyun.com/qianwen/?st=null"
+              },
+              {
+                "type": "link",
+                "addDate": 1731987356268,
+                "title": "智谱清言",
+                "icon": "https://logo.clearbit.com/chatglm.cn",
+                "url": "https://chatglm.cn/main/alltoolsdetail?lang=zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1731987158004,
+                "title": "ChatGPT",
+                "icon": "https://logo.clearbit.com/chatgpt.com",
+                "url": "https://chatgpt.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731987451791,
+                "title": "DeepSeek - 探索未至之境",
+                "icon": "https://logo.clearbit.com/chat.deepseek.com",
+                "url": "https://chat.deepseek.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731987028917,
+                "title": "Forefront Chat",
+                "icon": "https://logo.clearbit.com/chat.forefront.ai",
+                "url": "https://chat.forefront.ai/app/chat/new"
+              },
+              {
+                "type": "link",
+                "addDate": 1731986963760,
+                "title": "Gemini",
+                "icon": "https://logo.clearbit.com/gemini.google.com",
+                "url": "https://gemini.google.com/app"
+              },
+              {
+                "type": "link",
+                "addDate": 1731987107205,
+                "title": "HuggingChat",
+                "icon": "https://logo.clearbit.com/huggingface.co",
+                "url": "https://huggingface.co/chat/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731986412403,
+                "title": "Kimi.ai - 会推理解析，能深度思考的AI助手",
+                "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+                "url": "https://kimi.moonshot.cn/"
+              }
+            ]
+          },
+          {
             "type": "link",
             "addDate": 1731987721996,
             "title": "v0 by Vercel",
@@ -159,7 +376,7 @@
           {
             "type": "folder",
             "addDate": 1731987492106,
-            "title": "社区",
+            "title": "comunity",
             "children": [
               {
                 "type": "link",
@@ -179,69 +396,6 @@
           },
           {
             "type": "link",
-            "addDate": 1731987451791,
-            "title": "DeepSeek - 探索未至之境",
-            "icon": "https://logo.clearbit.com/chat.deepseek.com",
-            "url": "https://chat.deepseek.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1731987412896,
-            "title": "工作室 - Dify",
-            "icon": "https://logo.clearbit.com/cloud.dify.ai",
-            "url": "https://cloud.dify.ai/apps"
-          },
-          {
-            "type": "link",
-            "addDate": 1731987356268,
-            "title": "智谱清言",
-            "icon": "https://logo.clearbit.com/chatglm.cn",
-            "url": "https://chatglm.cn/main/alltoolsdetail?lang=zh"
-          },
-          {
-            "type": "link",
-            "addDate": 1731987251125,
-            "title": "通义tongyi.ai_你的全能AI助手-通义千问",
-            "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
-            "url": "https://tongyi.aliyun.com/qianwen/?st=null"
-          },
-          {
-            "type": "link",
-            "addDate": 1731987158004,
-            "title": "ChatGPT",
-            "icon": "https://logo.clearbit.com/chatgpt.com",
-            "url": "https://chatgpt.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1731987107205,
-            "title": "HuggingChat",
-            "icon": "https://logo.clearbit.com/huggingface.co",
-            "url": "https://huggingface.co/chat/"
-          },
-          {
-            "type": "link",
-            "addDate": 1731987028917,
-            "title": "Forefront Chat",
-            "icon": "https://logo.clearbit.com/chat.forefront.ai",
-            "url": "https://chat.forefront.ai/app/chat/new"
-          },
-          {
-            "type": "link",
-            "addDate": 1731986963760,
-            "title": "Gemini",
-            "icon": "https://logo.clearbit.com/gemini.google.com",
-            "url": "https://gemini.google.com/app"
-          },
-          {
-            "type": "link",
-            "addDate": 1731986789784,
-            "title": "扣子",
-            "icon": "https://logo.clearbit.com/www.coze.cn",
-            "url": "https://www.coze.cn/space/7417819919506767912/develop"
-          },
-          {
-            "type": "link",
             "addDate": 1731986595554,
             "title": "Groq is Fast AI Inference",
             "icon": "https://logo.clearbit.com/groq.com",
@@ -253,13 +407,6 @@
             "title": "Perplexity",
             "icon": "https://logo.clearbit.com/www.perplexity.ai",
             "url": "https://www.perplexity.ai/"
-          },
-          {
-            "type": "link",
-            "addDate": 1731986412403,
-            "title": "Kimi.ai - 会推理解析，能深度思考的AI助手",
-            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
-            "url": "https://kimi.moonshot.cn/"
           }
         ]
       },
