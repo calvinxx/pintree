@@ -53,6 +53,20 @@
         "children": [
           {
             "type": "link",
+            "addDate": 1732151557114,
+            "title": "腾讯云11.11上云拼团Go",
+            "icon": "https://logo.clearbit.com/cloud.tencent.com",
+            "url": "https://cloud.tencent.com/act/pro/double11-2024?fromSource=gwzcw.8892175.8892175.8892175&utm_medium=cpc&utm_id=gwzcw.8892175.8892175.8892175"
+          },
+          {
+            "type": "link",
+            "addDate": 1732151294673,
+            "title": "2024主会场_智惠就在11.11，用云就用阿里云_金秋云创季-阿里云权益中心",
+            "icon": "https://logo.clearbit.com/www.aliyun.com",
+            "url": "https://www.aliyun.com/activity/1111/2024?spm=5176.29619931.J_4VYgf18xNlTAyFFbOuOQe.1.5d7f59fcONm2e0&scm=20140722.M_10730678.P_116.MO_1774-ID_10718452-MID_10718452-CID_32118-ST_12102-V_1"
+          },
+          {
+            "type": "link",
             "addDate": 1732039088555,
             "title": "主页 | Chenqiwencalvin@gmail.com's Account | Cloudflare",
             "icon": "https://logo.clearbit.com/dash.cloudflare.com",
@@ -137,6 +151,20 @@
         "children": [
           {
             "type": "link",
+            "addDate": 1732124246825,
+            "title": "少数派 - 高效工作，品质生活",
+            "icon": "https://logo.clearbit.com/sspai.com",
+            "url": "https://sspai.com/#!"
+          },
+          {
+            "type": "link",
+            "addDate": 1732094365238,
+            "title": "(9+) 首页 • Threads",
+            "icon": "https://logo.clearbit.com/www.threads.net",
+            "url": "https://www.threads.net/"
+          },
+          {
+            "type": "link",
             "addDate": 1732038276544,
             "title": "(55 封私信 / 80 条消息) 首页 - 知乎",
             "icon": "https://logo.clearbit.com/www.zhihu.com",
@@ -156,6 +184,41 @@
         "addDate": 1732038135180,
         "title": "resource",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1732124330990,
+            "title": "Appstorrent - Игры и программы для macOS",
+            "icon": "https://logo.clearbit.com/appstorrent.ru",
+            "url": "https://appstorrent.ru/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732124260809,
+            "title": "异常教程 - 提供IDEA激活破解码、Pycharm激活教程",
+            "icon": "https://logo.clearbit.com/www.exception.site",
+            "url": "https://www.exception.site/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732124229902,
+            "title": "OVO-养鸡场",
+            "icon": "https://logo.clearbit.com/ovocloud.cc",
+            "url": "https://ovocloud.cc/#/dashboard"
+          },
+          {
+            "type": "link",
+            "addDate": 1732124193179,
+            "title": "XApi",
+            "icon": "https://logo.clearbit.com/zy.xywlapi.cc",
+            "url": "https://zy.xywlapi.cc/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732124165490,
+            "title": "免费矢量图标——下载1,383,200个图标（SVG、PNG）",
+            "icon": "https://logo.clearbit.com/igoutu.cn",
+            "url": "https://igoutu.cn/icons"
+          },
           {
             "type": "link",
             "addDate": 1732039365447,
@@ -226,6 +289,125 @@
         "addDate": 1731987782009,
         "title": "programing",
         "children": [
+          {
+            "type": "folder",
+            "addDate": 1732124702392,
+            "title": "react ui",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1732124902193,
+                "title": "白夜破晓 白夜破晓 02-电视剧-高清完整正版视频在线观看-优酷",
+                "icon": "https://logo.clearbit.com/v.youku.com",
+                "url": "https://v.youku.com/v_show/id_XNjQzNzMzNjcyOA==.html?s=2cefbfbd6113efbfbd6c&scm=20140719.manual.35026.show_2cefbfbd6113efbfbd6c&spm=a2hja.14919748_WEBHOME_NEW.drawer1d_zj1_1&s=2cefbfbd6113efbfbd6c"
+              },
+              {
+                "type": "link",
+                "addDate": 1732124814529,
+                "title": "NextUI - Beautiful, fast and modern React UI Library",
+                "icon": "https://logo.clearbit.com/nextui.org",
+                "url": "https://nextui.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732124801766,
+                "title": "Aceternity UI",
+                "icon": "https://logo.clearbit.com/ui.aceternity.com",
+                "url": "https://ui.aceternity.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732124788538,
+                "title": "Radix UI",
+                "icon": "https://logo.clearbit.com/www.radix-ui.com",
+                "url": "https://www.radix-ui.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732124774339,
+                "title": "Plate",
+                "icon": "https://logo.clearbit.com/platejs.org",
+                "url": "https://platejs.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732124761771,
+                "title": "shadcn/ui",
+                "icon": "https://logo.clearbit.com/ui.shadcn.com",
+                "url": "https://ui.shadcn.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732124748404,
+                "title": "Refine | Open-source Retool for Enterprise",
+                "icon": "https://logo.clearbit.com/refine.dev",
+                "url": "https://refine.dev/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732124727146,
+                "title": "Remix - 构建更优秀的网站 框架",
+                "icon": "https://logo.clearbit.com/remix.org.cn",
+                "url": "https://remix.org.cn/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1732124596770,
+            "title": "tec tutorial",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1732124677258,
+                "title": "JavaKeeper",
+                "icon": "https://logo.clearbit.com/javakeeper.starfish.ink",
+                "url": "https://javakeeper.starfish.ink/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732124603315,
+                "title": "Rust 程序设计语言 - Rust 程序设计语言 简体中文版",
+                "icon": "https://logo.clearbit.com/kaisery.github.io",
+                "url": "https://kaisery.github.io/trpl-zh-cn/title-page.html"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1732124537184,
+            "title": "rust framework",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1732124567384,
+                "title": "Build smaller, faster, and more secure desktop applications with a web frontend | Tauri Apps",
+                "icon": "https://logo.clearbit.com/v1.tauri.app",
+                "url": "https://v1.tauri.app/zh-cn/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1732124469516,
+            "title": "Project IDX  |  Google for Developers",
+            "icon": "https://logo.clearbit.com/developers.google.com",
+            "url": "https://developers.google.com/idx?hl=zh-cn"
+          },
+          {
+            "type": "folder",
+            "addDate": 1732124420260,
+            "title": "java framework",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1732124433007,
+                "title": "MyBatis-Flex - MyBatis-Flex 官方网站",
+                "icon": "https://logo.clearbit.com/mybatis-flex.com",
+                "url": "https://mybatis-flex.com/"
+              }
+            ]
+          },
           {
             "type": "link",
             "addDate": 1732039418041,
