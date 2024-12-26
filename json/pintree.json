@@ -25,6 +25,13 @@
         "children": [
           {
             "type": "link",
+            "addDate": 1735147028503,
+            "title": "CS-Notes 面试笔记",
+            "icon": "https://logo.clearbit.com/www.cyc2018.xyz",
+            "url": "https://www.cyc2018.xyz/"
+          },
+          {
+            "type": "link",
             "addDate": 1732039528361,
             "title": "提示工程指南",
             "icon": "https://logo.clearbit.com/learnprompting.org",
@@ -109,6 +116,13 @@
         "children": [
           {
             "type": "link",
+            "addDate": 1734934043427,
+            "title": "ChartDB - Create & Visualize Database Schema Diagrams",
+            "icon": "https://logo.clearbit.com/app.chartdb.io",
+            "url": "https://app.chartdb.io/"
+          },
+          {
+            "type": "link",
             "addDate": 1732039442062,
             "title": "OpenResume - Free Open-source Resume Builder and Parser",
             "icon": "https://logo.clearbit.com/www.open-resume.com",
@@ -151,6 +165,13 @@
         "children": [
           {
             "type": "link",
+            "addDate": 1735107385352,
+            "title": "Quora",
+            "icon": "https://logo.clearbit.com/www.quora.com",
+            "url": "https://www.quora.com/"
+          },
+          {
+            "type": "link",
             "addDate": 1732124246825,
             "title": "少数派 - 高效工作，品质生活",
             "icon": "https://logo.clearbit.com/sspai.com",
@@ -184,6 +205,13 @@
         "addDate": 1732038135180,
         "title": "resource",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1734933973321,
+            "title": "Moodist: Ambient Sounds for Focus and Calm",
+            "icon": "https://logo.clearbit.com/moodist.mvze.net",
+            "url": "https://moodist.mvze.net/"
+          },
           {
             "type": "link",
             "addDate": 1732124330990,
@@ -289,6 +317,13 @@
         "addDate": 1731987782009,
         "title": "programing",
         "children": [
+          {
+            "type": "link",
+            "addDate": 1735107965883,
+            "title": "CyC2018/CS-Notes: :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/CyC2018/CS-Notes"
+          },
           {
             "type": "folder",
             "addDate": 1732124702392,
@@ -466,6 +501,125 @@
         "children": [
           {
             "type": "folder",
+            "addDate": 1735230177034,
+            "title": "other tools",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1734934221599,
+                "title": "myhhub/stock: 基于 Python 的股票分析系统 - HelloGitHub",
+                "icon": "https://logo.clearbit.com/hellogithub.com",
+                "url": "https://hellogithub.com/repository/1ede36c8f5824b929d2cb7cbab79b606"
+              },
+              {
+                "type": "link",
+                "addDate": 1731985410823,
+                "title": "Perplexity",
+                "icon": "https://logo.clearbit.com/www.perplexity.ai",
+                "url": "https://www.perplexity.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731987721996,
+                "title": "v0 by Vercel",
+                "icon": "https://logo.clearbit.com/v0.dev",
+                "url": "https://v0.dev/chat/home"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1735230106364,
+            "title": "llm programing",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1733140697852,
+                "title": "AI SDK UI: Chatbot with Tools",
+                "icon": "https://logo.clearbit.com/sdk.vercel.ai",
+                "url": "https://sdk.vercel.ai/docs/ai-sdk-ui/chatbot-with-tool-calling"
+              },
+              {
+                "type": "link",
+                "addDate": 1734934151492,
+                "title": "DS4SD/docling: Get your documents ready for gen AI",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/DS4SD/docling"
+              },
+              {
+                "type": "link",
+                "addDate": 1733230066988,
+                "title": "SerpApi: Google Search API",
+                "icon": "https://logo.clearbit.com/serpapi.com",
+                "url": "https://serpapi.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731987478054,
+                "title": "Reader API",
+                "icon": "https://logo.clearbit.com/jina.ai",
+                "url": "https://jina.ai/reader/"
+              },
+              {
+                "type": "link",
+                "addDate": 1733230071452,
+                "title": "Tavily AI",
+                "icon": "https://logo.clearbit.com/app.tavily.com",
+                "url": "https://app.tavily.com/home?code=jn3rAvRw9lkevlnmrEN3A6xYRQFvs1eEGX3ek-nPy5RFT&state=eyJyZXR1cm5UbyI6Ii9ob21lIn0"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1735230093756,
+            "title": "guide",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1733485697942,
+                "title": "提示工程指南 | Prompt Engineering Guide",
+                "icon": "https://logo.clearbit.com/www.promptingguide.ai",
+                "url": "https://www.promptingguide.ai/zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1733140831819,
+                "title": "LangGraph",
+                "icon": "https://logo.clearbit.com/www.langchain.com",
+                "url": "https://www.langchain.com/langgraph"
+              },
+              {
+                "type": "link",
+                "addDate": 1733242205890,
+                "title": "LangChain中文网:500页中文文档教程，助力大模型LLM应用开发从入门到精通",
+                "icon": "https://logo.clearbit.com/www.langchain.asia",
+                "url": "https://www.langchain.asia/"
+              },
+              {
+                "type": "link",
+                "addDate": 1733274745829,
+                "title": "Ollama",
+                "icon": "https://logo.clearbit.com/ollama.com",
+                "url": "https://ollama.com/search"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1735176074134,
+            "title": "image",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1735176071960,
+                "title": "ImageFX",
+                "icon": "https://logo.clearbit.com/labs.google",
+                "url": "https://labs.google/fx/zh/tools/image-fx"
+              }
+            ]
+          },
+          {
+            "type": "folder",
             "addDate": 1732039563688,
             "title": "work flow",
             "children": [
@@ -545,15 +699,15 @@
                 "title": "Kimi.ai - 会推理解析，能深度思考的AI助手",
                 "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
                 "url": "https://kimi.moonshot.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1731986595554,
+                "title": "Groq is Fast AI Inference",
+                "icon": "https://logo.clearbit.com/groq.com",
+                "url": "https://groq.com/"
               }
             ]
-          },
-          {
-            "type": "link",
-            "addDate": 1731987721996,
-            "title": "v0 by Vercel",
-            "icon": "https://logo.clearbit.com/v0.dev",
-            "url": "https://v0.dev/chat/home"
           },
           {
             "type": "folder",
@@ -568,27 +722,6 @@
                 "url": "https://www.modelscope.cn/my/overview"
               }
             ]
-          },
-          {
-            "type": "link",
-            "addDate": 1731987478054,
-            "title": "Reader API",
-            "icon": "https://logo.clearbit.com/jina.ai",
-            "url": "https://jina.ai/reader/"
-          },
-          {
-            "type": "link",
-            "addDate": 1731986595554,
-            "title": "Groq is Fast AI Inference",
-            "icon": "https://logo.clearbit.com/groq.com",
-            "url": "https://groq.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1731985410823,
-            "title": "Perplexity",
-            "icon": "https://logo.clearbit.com/www.perplexity.ai",
-            "url": "https://www.perplexity.ai/"
           }
         ]
       },
